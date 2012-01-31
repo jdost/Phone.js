@@ -1,0 +1,2 @@
+This is a simple wrapper for phone numbers in Javascript, just makes
+it easy to handle bad formatting and do more advanced stuff with them.
