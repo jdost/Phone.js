@@ -11,7 +11,7 @@ This uses grunt to handle testing and all that.  The tests are written in Jasmin
 ### Usage
 
 Just include the javascript file
-```<script type="text/javascript" src="/static/js/phone.js"></script>
+```&lt;script type="text/javascript" src="/static/js/phone.js"&gt;&lt;/script&gt;
 ```
 
 Then use the wrapper:
