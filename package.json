@@ -4,6 +4,11 @@
   "version": "0.0.1",
   "author": "jdost",
   "repository": "https://github.com/jdost/Phone.js",
+
+  "scripts": {
+    "test": "grunt"
+  },
+
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-jasmine": "~0.5.1",
