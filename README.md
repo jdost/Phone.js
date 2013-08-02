@@ -1,4 +1,5 @@
 # Phone.js
+[![Build Status](https://travis-ci.org/jdost/Phone.js.png)](https://travis-ci.org/jdost/Phone.js)
 
 A wrapper for phone numbers used in Javascript, provides validation, parsing
 of various formats and outputs to specified formats.
